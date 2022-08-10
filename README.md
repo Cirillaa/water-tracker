@@ -2,7 +2,7 @@
 
 A simple application on Vanilla JS for tracking water you drink during the day.
 
-##Display 
+## Display 
 
 ![](/screens/first.png)
 
@@ -15,7 +15,7 @@ A simple application on Vanilla JS for tracking water you drink during the day.
 * Clears all progress to restart your day
 
 >Reach the goal to see cat:)
-##Display in use
+## Display in use
 
 ![](/screens/second.png)
 
